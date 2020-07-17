@@ -5,6 +5,7 @@
 ### Somewhere else where you can find my projects? 👇
 - ✨ FrontEnd ... https://codepen.io/agbanusi/
 - ✨ BackEnd ... https://glitch.com/@agbanusijohn
+- ✨ Blog ... https://dev.to/agbanusi
 ##
 ### Other things about me! 👨🏾‍💻
 - 🔭 I’m currently working on ... Person to Person Video caller (Zoom clone)
