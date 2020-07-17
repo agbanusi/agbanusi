@@ -6,9 +6,10 @@
 - ✨ FrontEnd ... https://codepen.io/agbanusi/
 - ✨ BackEnd ... https://glitch.com/@agbanusijohn
 ##
+### Other things about me! 👨🏾‍💻
 - 🔭 I’m currently working on ... Person to Person Video caller (Zoom clone)
 - 🌱 I’m currently learning ... Golang, Firebase and SQL
-- 👯 I’m looking towards ... getting my first web job, contract, projects collaboration mainly MERN stack
+- 👯 I’m looking towards ... Getting my first web job, Contract, Projects collaboration mainly MERN stack
 - 💬 Ask me about ... anything at all
 - 📫 How to reach me: ... agbanusijohn@gmail.com, @agbanusi (twitter)
 - 😄 Pronouns: ... He
