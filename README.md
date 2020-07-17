@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm John Agbanusi, a full stack web dev, specializing in React for frontend development and Node.js+Express and Python and flask for backend, with MonogDB as database.
 
 ### You can check out my github repos for some of the projects I've done.
-### For my complete projects breakdown
+##
+### For my complete projects breakdown:
+##
 - ✨ FrontEnd ... https://codepen.io/agbanusi/
 - ✨ BackEnd ... https://glitch.com/@agbanusijohn
 
