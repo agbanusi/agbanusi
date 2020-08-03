@@ -1,6 +1,6 @@
 # Hi there 👋, I'm John Agbanusi!
 
-### I'm a full stack web developer, with main skills in React.js for frontend development and Node.js+Express and Python + Flask for backend, with MonogDB as database, also have skills in Vue.js, Fast API+Python,etc You're welcome to review and critique any project I've done so far.
+### I'm a full stack web developer, with main skills in React.js for frontend development and Node.js+Express and Python + Flask for backend, with MonogDB as database, also have skills in Vue.js, Fast API+Python, etc. You're welcome to review and critique any project I've done so far.
 ##
 ### Skills Summary and some places where you can find more of my projects: 👇
 - ✨ FrontEnd - HTML,CSS, SASS, Vanilla Javascript, Pug, React.js, Vue.js ... https://codepen.io/agbanusi/
@@ -12,7 +12,7 @@
 ##
 ### Other things about me! 👨🏾‍💻
 - 🔭 I’m currently working on ... Person to Person Video chat
-- 🌱 I’m currently learning ... Golang, Firebase and SQL
+- 🌱 I’m currently learning ... Golang, Firebase, CyberSecurity
 - 👯 I’m looking towards ... Getting my first web developer role, Contracts or Projects collaboration mainly MERN stack
 - 💬 Ask me about ... anything at all
 - 📫 How to reach me: ... agbanusijohn@gmail.com, @agbanusi (twitter)
