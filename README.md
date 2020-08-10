@@ -11,7 +11,7 @@
 ### My portfolio is currently a work in progress but here's what it's like for now- https://agbanusi.github.io/Portfolio/
 ##
 ### Other things about me! 👨🏾‍💻
-- 🔭 I’m currently working on ... Twitter bot in Golang, Gallery Arranger in Python backend, React/Gatsby frontend.
+- 🔭 I’m currently working on ... Twitter bot in Golang,  Gallery Arranger in Python backend + React frontend.
 - 🌱 I’m currently learning ... Golang, Firebase, CyberSecurity
 - 👯 I’m looking towards ... Getting my first web developer role, Contracts or Projects collaboration mainly MERN stack
 - 💬 Ask me about ... anything at all
