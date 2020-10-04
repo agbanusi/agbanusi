@@ -5,7 +5,7 @@
 ### Skills Summary and some places where you can find more of my projects: 👇
 - ✨ FrontEnd - HTML,CSS, SASS, Vanilla Javascript, Pug, React.js, Vue.js ... https://codepen.io/agbanusi/
 - ✨ BackEnd - Node.js, Python+Flask & Fast API, MongoDB, SQL, Docker ... https://glitch.com/@agbanusijohn
-- ✨ Blog - https://dev.to/agbanusi
+- ✨ Blog - https://dev.to/agbanusi, https://hashnode.com/@agbanusi
 - ✨ Cloud Computing - Google Cloud Console
 ##
 ### My portfolio is currently a work in progress but here's what it's like for now- https://agbanusi.github.io/Portfolio/
