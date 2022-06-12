@@ -6,7 +6,7 @@
 - ✨ FrontEnd - HTML,CSS, SASS, Vanilla Javascript, Pug, React.js, React Native ... https://codepen.io/agbanusi/
 - ✨ BackEnd - Node.js, Python+Flask & Fast API, MongoDB, PostgreSQL, Docker, SQlFluff ... https://glitch.com/@agbanusijohn
 - ✨ Blockchain - Solidity, Rust (Solana)
-- ✨ Blog - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain/ https://dev.to/agbanusi, https://hashnode.com/@agbanusi
+- ✨ Blog - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain/ ,   https://dev.to/agbanusi, https://hashnode.com/@agbanusi
 - ✨ Cloud Computing - Google Cloud Console
 ##
 ##
