@@ -8,7 +8,7 @@
 ### Skills Summary and some places where you can find more of my projects: 👇
 - ✨ FrontEnd - HTML,CSS, SASS, Vanilla Javascript, Pug, React.js, React Native ... https://codepen.io/agbanusi/
 - ✨ BackEnd - Node.js, Python+Flask & Fast API, MongoDB, PostgreSQL, Docker, SQlFluff ... https://glitch.com/@agbanusijohn
-- ✨ Blockchain - Solidity, Rust (Solana)
+- ✨ Blockchain - Solidity, Rust (Solana), Web3, Moralis, Truffle, Hardhat, Multicall, Infura, etc
 - ✨ Blog - https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain/,  https://dev.to/agbanusi,  https://hashnode.com/@agbanusi
 - ✨ Cloud Computing - Google Cloud Console
 ##
