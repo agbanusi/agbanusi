@@ -9,20 +9,20 @@
 [<img align="left" alt="Twitter" width="125px" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agbanusijohn)
 [<img align="left" alt="reddit" width="105px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Johnny_bosco)
 [<img align="left" alt="gmail" width="105px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=agbanusijohn@gmail.com)
-[<img align="left" alt="Smashing Magazine" width="105px" src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=430/uploads/users/16/profiles/18733/profileImage/smashing400.jpg" />](https://www.smashingmagazine.com/author/john-agbanusi/)
+[<img align="left" alt="Smashing Magazine" width="50px" height="50px" src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=430/uploads/users/16/profiles/18733/profileImage/smashing400.jpg" />](https://www.smashingmagazine.com/author/john-agbanusi/)
 [<img align="left" alt="Hashnode Blog" width="105px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg" />](https://hashnode.com/@agbanusi)
 
 <br>
 <hr>
 
-### Skills Summary
+## Skills Summary
 - ✨ FrontEnd - HTM/CSS, SASS/SCSS/LESS, Typescript, React.js, React Native, Ionic, Vue, etc.
 - ✨ BackEnd - Node.js, Python, MongoDB, PostgreSQL, Docker, GraphQL, BigQuery, Ruby/Rails, Azure repo CI, Github Actions etc.
 - ✨ Blockchain - Solidity, Rust (Solana), Web3, Moralis, Truffle, Hardhat, Infura, etc.
 - ✨ Data Analytics - Excel, Tableau, Python, DBT, SQLFluff, etc
 - ✨ Cloud Computing - Google Cloud Console (GCP), AWS, Azure Repos.
 
-### Languages and tools
+## Languages and tools
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=html&sort=)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=css&sort=)
