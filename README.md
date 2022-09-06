@@ -10,13 +10,13 @@
 [<img align="left" alt="Twitter" width="125px" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agbanusijohn)
 [<img align="left" alt="reddit" width="105px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Johnny_bosco)
 [<img align="left" alt="gmail" width="105px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=agbanusijohn@gmail.com)
-[<img align="left" alt="Smashing Magazine" width="70px" height="40px" src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=430/uploads/users/16/profiles/18733/profileImage/smashing400.jpg" />](https://www.smashingmagazine.com/author/john-agbanusi/)
+[<img align="left" alt="Smashing Magazine" width="105px" src="https://www.inclusionhub.com/hubfs/resource%20logos/Smashing%20Magazine%20Logo.jpg" />](https://www.smashingmagazine.com/author/john-agbanusi)
 [<img align="left" alt="Hashnode Blog" width="105px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg" />](https://hashnode.com/@agbanusi)
 
-
+<br>
 <br>
 <hr>
-
+<br>
 
 ## Skills Summary
 - ✨ FrontEnd - HTM/CSS, SASS/SCSS/LESS, Typescript, React.js, React Native, Ionic, Vue, etc.
