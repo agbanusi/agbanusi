@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm John Agbanusi!
 
-#### I'm a full stack and solidity engineer all about full stack applications, native android applications, blockchain applications and integrations, data analytics and cloud engineering. 
+### I'm a full stack and solidity engineer all about full stack applications, native android applications, blockchain applications and integrations, data analytics and cloud engineering. 
 
 ## Connect With Me
 
