@@ -10,7 +10,7 @@
 [<img align="left" alt="reddit" width="105px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Johnny_bosco)
 [<img align="left" alt="gmail" width="105px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=agbanusijohn@gmail.com)
 [<img align="left" alt="Smashing Magazine" width="105px" src="https://www.smashingmagazine.com/images/logo.svg" />](https://www.smashingmagazine.com/author/john-agbanusi/)
-[<img align="left" alt="Hashnode Blog" width="105px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg?auto=compress" />](https://hashnode.com/@agbanusi)
+[<img align="left" alt="Hashnode Blog" width="105px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592751328987/VzrtgcQNF.jpeg" />](https://hashnode.com/@agbanusi)
 
 <br>
 <hr>
