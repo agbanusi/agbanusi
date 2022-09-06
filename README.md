@@ -25,7 +25,7 @@
 
 <br>
 
-## Languages and tools
+## Some Languages and tools
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=html&sort=)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=css&sort=)
@@ -55,7 +55,7 @@
 
 <br>
 
-## Analytics
+## Github Analytics
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=agbanusi&show_icons=true&theme=algolia&hide_border=true" />
 </p>
