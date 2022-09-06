@@ -5,7 +5,7 @@
 
 ### Connect With Me
 
-[<img align="left" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/john-a-74a396b8/]
+[<img align="left" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/john-a-74a396b8/)
 [<img align="left" alt="Twitter" width="125px" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agbanusijohn)
 [<img align="left" alt="reddit" width="105px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/Johnny_bosco)
 [<img align="left" alt="gmail" width="105px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=agbanusijohn@gmail.com)
