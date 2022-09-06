@@ -2,9 +2,9 @@
 
 ## Hi 👋, I'm John Agbanusi!
 
-### I'm a full stack and solidity engineer all about full stack applications, native android applications, blockchain applications and integrations, data analytics and cloud engineering. 
+#### I'm a full stack and solidity engineer all about full stack applications, native android applications, blockchain applications and integrations, data analytics and cloud engineering. 
 
-### Connect With Me
+## Connect With Me
 
 [<img align="left" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/john-a-74a396b8/)
 [<img align="left" alt="Twitter" width="125px" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/agbanusijohn)
@@ -15,8 +15,6 @@
 
 <br>
 <br>
-<hr>
-<br>
 
 ## Skills Summary
 - ✨ FrontEnd - HTM/CSS, SASS/SCSS/LESS, Typescript, React.js, React Native, Ionic, Vue, etc.
@@ -24,6 +22,8 @@
 - ✨ Blockchain - Solidity, Rust (Solana), Web3, Moralis, Truffle, Hardhat, Infura, etc.
 - ✨ Data Analytics - Excel, Tableau, Python, DBT, SQLFluff, etc
 - ✨ Cloud Computing - Google Cloud Console (GCP), AWS, Azure Repos.
+
+<br>
 
 ## Languages and tools
 
@@ -53,9 +53,13 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love biking and watching animes, I also love hackathons.
 
+<br>
+
 ## Analytics
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=agbanusi&show_icons=true&theme=algolia&hide_border=true" />
 </p>
+
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=agbanusi)
