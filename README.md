@@ -25,7 +25,7 @@
 
 <br>
 
-## Some Languages and tools
+## A few specified Languages and tools
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=javascript&sort=)
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=javascript&sort=)
@@ -46,7 +46,7 @@
 <hr>
 
 ## Other things about me! 👨🏾‍💻
-- 💬 I love working on side projects,watch out for [Headen Finance](https://headen.finance) and [Hum Finance](https://humfinance.xyz)
+- 💬 I love working on side projects, watch out for [Headen Finance](https://headen.finance) and [Hum Finance](https://humfinance.xyz)
 - 😄 I am open to discussion and questions about anything at all, and also open to contributing to projects
 - ⚡ A fun fact about me is I love biking and watching anime, I also love participating in hackathons.
 
