@@ -47,16 +47,12 @@
 <hr>
 
 ## Other things about me! 👨🏾‍💻
-- 💬 I love working on side projects, watch out for [Headen Finance](https://headen.finance) and [Hum Finance](https://humfinance.xyz)
+- 💬 I also love working on side projects, watch out for [Headen Finance](https://headen.finance) and [Hum Finance](https://humfinance.xyz)
+- ⚡ I am actively looking for networking, speaking, and writing opportunities.
 - 😄 I am open to discussion and questions about anything at all, and also open to contributing to projects
-- ⚡ A fun fact about me is I love biking and watching anime, I also love participating in hackathons.
+- ⚡ A fun fact about me is I love riding bikes and watching anime, I also love participating in hackathons.
 
 <br>
-
-## Github Analytics
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=agbanusi&show_icons=true&theme=algolia&hide_border=true" />
-</p>
 
 <br>
 
