@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm John Agbanusi!
 
-### I'm a software engineer who loves building applications. I am also a cybersecurity enthusiast with a love for DevOps and Cloud Native Programming.
+### I'm a software engineer who loves building applications. I am also a cybersecurity enthusiast with a love for DevOps, Data and Cloud Native Programming.
 
 
 ## Connect With Me
