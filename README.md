@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm John Agbanusi!
 
-### I'm a software engineer who loves building applications. I am also a cybersecurity enthusiast with a love for DevOps, Data and Cloud Native Programming.
+### I'm a software engineer who loves building applications. I also love DevOps, Data Engineering, and I'm currently learning distributed systems engineering.
 
 
 ## Connect With Me
@@ -16,41 +16,21 @@
 <br>
 
 ## My Skills Summary
-- ✨ Web Development with Javascript, Typescript, React.js and Vue.
-- ✨ Mobile Development with React Native
-- ✨ BackEnd programming with Node, Python, Go, Ruby, Java and Rust.
-- ✨ Blockchain development with Solidity, Rust (Solana), Moralis, Hardhat, Infura, and smart contracts auditing at CodeArena.
-- ✨ Cybersecurity analysis with Let's Defend and CyberTalents.
-- ✨ Data Engineering and Analysis with Excel, Tableau, Python, DBT, SQLFluff, and Kafka 
-- ✨ DevOps Engineering with Docker, Kubernetes, GCP, AWS, Azure Repos, GitHub Actions, Serverless, and Bash.
-
-<br>
-
-## A few specified Languages and tools
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=javascript&sort=)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=javascript&sort=)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />](https://github.com/agbanusi?tab=repositories&q=&type=&language=typescript&sort=)
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/octocat.png" />](https://www.github.com/agbanusi/)
-[<img align="left" alt="GCP" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />](https://www.cloudskillsboost.google/public_profiles/ce191bc3-8bb0-4aa1-8229-808b7e179227)
-<a href="https://github.com/agbanusi?tab=repositories&q=&type=&language=go&sort=" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="30" height="30"/> 
-</a> 
-<a href="https://github.com/agbanusi?tab=repositories&q=&type=&language=python&sort=" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> 
-</a>
-<a href="https://github.com/agbanusi?tab=repositories&q=&type=&language=solidity&sort=" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" height="30"/> 
-</a>
+- ✨ Web Development with Typescript, React and Vue.
+- ✨ Mobile Development with ReactNative
+- ✨ BackEnd Engineering with Go, Node, Python, C/C++, Java and Rust.
+- ✨ Blockchain Engineering with Solidity, Rust (Solana), Soroban, Anchor and Foundry.
+- ✨ Data Engineering with Tableau, Python, DBT, SQLFluff, and Kafka 
+- ✨ DevOps Engineering with Docker, Kubernetes, GCP, AWS, Azure Repos, Terraform, OpenTelemetry, Grafana.
 
 <br>
 <hr>
 
 ## Other things about me! 👨🏾‍💻
-- 💬 I also love working on side projects, watch out for [Headen Finance](https://headen.finance) and [Hum Finance](https://humfinance.xyz)
+- 💬 I also love working on side projects, watch out for [UsePayVest](https://headen.finance) and [Urus](https://humfinance.xyz)
 - ⚡ I am actively looking for networking, speaking, and writing opportunities.
-- 😄 I am open to discussion and questions about anything at all, and also open to contributing to projects
-- ⚡ A fun fact about me is I love riding bikes and watching anime, I also love participating in hackathons.
+- 😄 I am open to discussion and questions about anything, and also open to contributing to projects
+- ⚡ A fun fact about me is that I love riding bikes and watching anime.
 
 <br>
 
